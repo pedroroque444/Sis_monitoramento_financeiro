@@ -2,9 +2,9 @@
 
 ## Tecnologias e Arquitetura
 - **Linguagem:** Python
-- **Interface Gráfica:** CustomTkinter (Visual Moderno / Dark Mode)
-- **Análise de Dados:** Matplotlib (Plotagem vetorial reativa com técnicas de contraste)
-- **Persistência:** SQLite3 (Banco de dados relacional com integridade referencial)
+- **Interface Gráfica:** CustomTkinter 
+- **Análise de Dados:** Matplotlib 
+- **Persistência:** SQLite3 
 - **Padrão Estrutural:** Arquitetura modular com separação estrita de camadas (GUI, Controle e Banco de Dados)
 
 ## Como Executar o Programa
